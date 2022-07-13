@@ -1,5 +1,5 @@
 const apodUrlToken =
-  "https://api.nasa.gov/planetary/apod? api_key=TqXPpWLtm32Mt32t6Yv3Hw50efG2v7q1TmiNSXz2";
+ "https://api.nasa.gov/planetary/apod?api_key=TqXPpWLtm32Mt32t6Yv3Hw50efG2v7q1TmiNSXz2";
 
 var minDate = "1995-06-20";
 
