@@ -8,4 +8,4 @@
 * jQuery
 
 # *Imagens*
-    <img width="700px" src="./assets./Paginainicial.png"> 
+   <img src="./ASSETS/PaginaInicial.png">
