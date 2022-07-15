@@ -8,4 +8,4 @@
 * jQuery
 
 # *Imagens*
-   <img src="./assets/PaginaInicial.png">
+   <img src="./assets/Paginainicial.png">
