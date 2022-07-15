@@ -7,9 +7,9 @@ Você pode colocar a data da sua preferência na caixa de entrada do lado direit
 a foto do dia, selecionada pela Nasa.*
 
 ## :wrench: *Tecnologias utilizadas*
-* JavaScript*
-* Css*
-* jQuery*
+* *JavaScript*
+* *Css*
+* *jQuery*
 
 # 🌚 *Imagens*
    <img src="./assets/Paginainicial.png">
